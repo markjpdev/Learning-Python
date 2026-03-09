@@ -1,8 +1,8 @@
-# Python Learning Journey
+# Learning Python
 
-**Mark Jayson Punsalan (MJP)** — Quezon City, Philippines
+I'm Mark, based in Quezon City, Philippines. I work in clinical systems and application support and I'm currently transitioning into backend engineering. This is where I document that journey.
 
-I work in clinical systems and application support. I'm transitioning into backend engineering. This repo documents that journey — not day by day, but concept by concept, build by build.
+Not a tutorial. Not a diary. Just the actual work.
 
 ---
 
@@ -10,20 +10,25 @@ I work in clinical systems and application support. I'm transitioning into backe
 
 | | |
 |---|---|
-| **Learning** | Python fundamentals via [Codedex](https://www.codedex.io/python) |
-| **Comfortable with** | Print statements, basic output |
-| **Working toward** | Variables, Control Flow, Loops |
-| **Next milestone** | Complete Python track on Codedex |
+| **Learning** | Python fundamentals via [Codedex](https://www.codedex.io/@Bakuryu) |
+| **Comfortable with** | Print statements, variables, basic user input |
+| **Working toward** | Control Flow, Loops |
+| **Next milestone** | Complete the Python track on Codedex |
 
 ---
 
 ## Progress
 
-- [x] 01 — Hello World
-- [ ] 02 — Variables
-- [ ] 03 — Control Flow
-- [ ] 04 — Loops
-- [ ] Checkpoint Project
+- [x] Chapter 1 — Hello World
+- [x] Chapter 2 — Variables
+- [ ] Chapter 3 — Control Flow
+- [ ] Chapter 4 — Loops
+- [ ] Chapter 5 — Checkpoint Project
+- [ ] Chapter 6 — Lists
+- [ ] Chapter 7 — Functions
+- [ ] Chapter 8 — Classes and Objects
+- [ ] Chapter 9 — Modules
+- [ ] Chapter 10 — Final Project
 
 ---
 
@@ -31,22 +36,19 @@ I work in clinical systems and application support. I'm transitioning into backe
 
 | Folder | What it contains |
 |--------|-----------------|
-| [`python/`](./python/) | Codedex solutions and notes per chapter |
-| [`notes/`](./notes/) | Concepts and struggles in my own words |
-| [`projects/`](./projects/) | Real projects — empty for now |
-| [`certificates/`](./certificates/) | Certificates earned along the way |
+| [Chapters and Exercises](./chapters/) | Code and notes per chapter |
+| [Projects](./projects/) | Real projects I built |
+| [Certificates](./certificates/) | Certificates I earned |
+| [Notes](./notes/) | Concepts and things that tripped me up |
 
 ---
 
-## Where I'm Going
+## Where This is Going
 
 Python fundamentals → FastAPI → PostgreSQL → Docker → first deployed API
 
-The goal isn't just to learn Python. It's to build a backend API that reflects my clinical systems background — and eventually, build game systems on top of that foundation.
+The goal is to build a backend API that reflects my clinical systems background. Game development is also on the roadmap further down.
 
 ---
 
-## Links
-
-- **Portfolio** — [markjp.dev](https://markjp.dev)
-- **LinkedIn** — [in/jaysonpunsalan](https://linkedin.com/in/jaysonpunsalan)
+**Portfolio** — [markjp.dev](https://markjp.dev) · **LinkedIn** — [in/jaysonpunsalan](https://linkedin.com/in/jaysonpunsalan)

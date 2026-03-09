@@ -1,11 +1,11 @@
 # Projects
 
-Real things I built — not tutorial code, not exercises.
+Real things I built. Not exercises, not tutorials.
 
 [← Back to main](../README.md)
 
 ---
 
-_Empty for now. First project goes here when the Python fundamentals are solid._
+Nothing here yet. First project starts after the Python track is complete.
 
-**Planned:** Clinical REST API — FastAPI, PostgreSQL, Docker.
+Planned: Clinical REST API using FastAPI, PostgreSQL, and Docker.

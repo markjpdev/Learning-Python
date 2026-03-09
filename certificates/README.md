@@ -4,4 +4,4 @@
 
 ---
 
-_Nothing here yet. First one will be the Codedex Python certificate._
+Nothing here yet. First one will be the Codedex Python certificate.
