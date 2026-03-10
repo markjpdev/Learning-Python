@@ -13,3 +13,15 @@ _Write this when you finish the chapter._
 ## Exercises
 
 _Add exercises here as you complete them._
+
+## Exercises
+
+### Exercise 11 — Coin Flip
+```python
+import random
+num = random.randint(0, 1)
+if num > 0.5:
+  print('Heads')
+else:
+  print('Tails')
+```
