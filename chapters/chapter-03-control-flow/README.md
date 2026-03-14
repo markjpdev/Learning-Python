@@ -34,3 +34,14 @@ if grade >= 55:
 else:
   print('You failed.')
 ```
+
+### Exercise 13 — pH Levels
+```python
+ph = 9
+if ph > 7:
+  print('Basic')
+elif ph < 7:
+  print('Acidic')
+else:
+  print('Neutral')
+```
