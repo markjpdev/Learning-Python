@@ -21,7 +21,7 @@ Not a tutorial. Not a diary. Just the actual work.
 
 - [x] Chapter 1 — Hello World
 - [x] Chapter 2 — Variables
-- [ ] Chapter 3 — Control Flow
+- [x] Chapter 3 — Control Flow
 - [ ] Chapter 4 — Loops
 - [ ] Chapter 5 — Checkpoint Project
 - [ ] Chapter 6 — Lists
